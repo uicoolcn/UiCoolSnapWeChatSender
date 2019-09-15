@@ -1,0 +1,2 @@
+# UiCoolSnapWeChatSender
+优爱酷定时截图屏模拟点击自动发送信息到微信群聊天窗口工具软件
