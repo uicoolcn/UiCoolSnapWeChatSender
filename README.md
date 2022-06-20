@@ -1,6 +1,16 @@
 # UiCoolSnapWeChatSender
 优爱酷定时截图屏模拟点击自动发送信息到微信群聊天窗口工具软件
 
+
+【免费下载】<br>
+① GitHub仓库下载：<br>
+https://github.com/uicoolcn/UiCoolSnapWeChatSender/releases<br>
+
+② 百度云盘 ：（如提示不存在，请按 F5 刷新页面）<br>
+链接：https://pan.baidu.com/s/16Z2AU9XbWdHX0OvRlVBNjw <br>
+提取码：vyzg <br>
+ 
+ 
 <a class="ed_image_link" title="点击查看大图" href="http://www.uicool.cn" target="_blank"><img title="优爱酷定时截图屏模拟点击自动发送信息到微信群聊天窗口工具软件" alt="" src="https://img.alicdn.com/imgextra/i3/296931148/O1CN01pe6Hsn1KLpF63WlZO_!!296931148.png"   mark="" style=""></a> 
 <img align="absmiddle" src="https://img.alicdn.com/imgextra/i4/296931148/O1CN010BDM7x1KLpHfRLCkr_!!296931148.png" class="" style="max-width: 750.0px;" data-spm-anchor-id="2013.1.0.i0.546a2326iphIw0">
 
@@ -49,12 +59,4 @@
 
 
 
-【免费下载】<br>
-① GitHub仓库下载：<br>
-https://github.com/uicoolcn/UiCoolSnapWeChatSender/releases<br>
-
-② 百度云盘 ：（如提示不存在，请按 F5 刷新页面）<br>
-链接：https://pan.baidu.com/s/16Z2AU9XbWdHX0OvRlVBNjw <br>
-提取码：vyzg <br>
- 
 
