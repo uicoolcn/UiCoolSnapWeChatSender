@@ -9,7 +9,11 @@ https://github.com/uicoolcn/UiCoolSnapWeChatSender/releases<br>
 ② 百度云盘 ：（如提示不存在，请按 F5 刷新页面）<br>
 链接：https://pan.baidu.com/s/16Z2AU9XbWdHX0OvRlVBNjw <br>
 提取码：vyzg <br>
- 
+
+如何使用：
+http://www.uicool.cn/Manaul/SnapSender/
+
+<a class="ed_image_link" title="点击查看大图" href="http://www.uicool.cn" target="_blank"><img title="优爱酷定时截图屏模拟点击自动发送信息到微信群聊天窗口工具软件" alt="" src="https://img.alicdn.com/imgextra/i3/296931148/O1CN01UY8itV1KLpF3zjLcH_!!296931148.gif" width="100%"  mark="" style=""></a> 
  
 <a class="ed_image_link" title="点击查看大图" href="http://www.uicool.cn" target="_blank"><img title="优爱酷定时截图屏模拟点击自动发送信息到微信群聊天窗口工具软件" alt="" src="https://img.alicdn.com/imgextra/i3/296931148/O1CN01pe6Hsn1KLpF63WlZO_!!296931148.png"   mark="" style=""></a> 
 <img align="absmiddle" src="https://img.alicdn.com/imgextra/i4/296931148/O1CN010BDM7x1KLpHfRLCkr_!!296931148.png" class="" style="max-width: 750.0px;" data-spm-anchor-id="2013.1.0.i0.546a2326iphIw0">
@@ -34,7 +38,7 @@ https://github.com/uicoolcn/UiCoolSnapWeChatSender/releases<br>
 <img align="absmiddle" src="https://img.alicdn.com/imgextra/i1/296931148/O1CN01LLjfiR1KLpFYG6Q29_!!296931148.png" class="" style="height: auto;max-width: 750.0px;" data-spm-anchor-id="2013.1.0.i4.546a2326iphIw0">
 
 
-<a class="ed_image_link" title="点击查看大图" href="http://www.uicool.cn" target="_blank"><img title="优爱酷定时截图屏模拟点击自动发送信息到微信群聊天窗口工具软件" alt="" src="https://img.alicdn.com/imgextra/i3/296931148/O1CN01UY8itV1KLpF3zjLcH_!!296931148.gif" width="100%"  mark="" style=""></a> 
+
 
 
 
